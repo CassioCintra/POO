@@ -1,0 +1,4 @@
+Quais as diferenças entra uma classe abstrata e uma interface?
+    Interfaces contem apenas os métodos, sem implementação, sendo todos abstratos e sem implementação, funcionam como
+um contrato.
+    Podem conter métodos com implementação, forçando uma hierarquia nas classes filhas.
